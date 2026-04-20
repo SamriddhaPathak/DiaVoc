@@ -194,11 +194,12 @@ If you use this work in your research, please cite:
   title={DiaVoc: Voice-based Diabetes Prediction using Federated Learning},
   author={Subedi, Rasum and Pathak, Samriddha and Pokhrel, Jyoti and Khati, Harina},
   year={2026},
-  howpublished={GitHub repository},
-  note={Available at: [repository URL]}
+  howpublished={GitHub repository}}
 }
 ```
 
 ## Contact
 
-[Add contact information]
+Samriddha Pathak: +977 9702187444
+
+Email: samriddhapathak123333@gmail.com

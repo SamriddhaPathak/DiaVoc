@@ -168,7 +168,7 @@ python fl/fl_simulation.py
 ## Performance
 
 The system achieves:
-- **90%+ accuracy** on held-out test sets
+- **80%+ accuracy** on held-out test sets
 - Robust performance across demographic groups
 - Privacy preservation through federated learning
 - Real-time inference capability

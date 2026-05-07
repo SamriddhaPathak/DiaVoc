@@ -192,7 +192,7 @@ If you use this work in your research, please cite:
 ```
 @misc{diavoc2026,
   title={DiaVoc: Voice-based Diabetes Prediction using Federated Learning},
-  author={Subedi, Rasum and Pathak, Samriddha and Pokhrel, Jyoti and Khati, Harina},
+  author={Khati, Harina and Pathak, Samriddha and Pokhrel, Jyoti and Subedi, Rasum},
   year={2026},
   howpublished={GitHub repository}}
 }
